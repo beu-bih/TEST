@@ -1,0 +1,6 @@
+// vercel.json
+{
+  "buildCommand": "pnpm run build",
+  "installCommand": "pnpm install",
+  "outputDirectory": ".next"
+}
